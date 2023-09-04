@@ -2,7 +2,6 @@
 - This is my origin story.
 - I fell in love, got cheated on.
 - I'm here to build an AI husband.
-- I'll build you whatever.
 - His name will be T-100.
 
 
